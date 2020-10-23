@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Stop Feeding Me Grandma!",
+"productVersion": "0.1",
+"dataUrl": "Stop Feeding Me Grandma!.data.unityweb",
+"wasmCodeUrl": "Stop Feeding Me Grandma!.wasm.code.unityweb",
+"wasmFrameworkUrl": "Stop Feeding Me Grandma!.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
